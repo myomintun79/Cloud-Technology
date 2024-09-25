@@ -1,12 +1,6 @@
-# Canon-LBP-printers-drivers
-Canon LBP printers drivers for Linux
-
-Script for installing the Linux CAPT Printer Driver for Canon LBP printers on Ubuntu (both 32-bit and 64-bit)
-
-Install
-wget https://github.com/hieplpvip/canon_printer/raw/master/canon_lbp_setup.sh \
-chmod +x canon_lbp_setup.sh \
-./canon_lbp_setup.sh
-
-# Thank
-# https://github.com/hieplpvip/ubuntu_canon_printer
+# Proxmox VE 
+https://www.proxmox.com/en/ \
+https://forum.proxmox.com/threads/what-is-the-differences-between-the-paid-and-free-version-of-proxmox.142951/ \
+https://forum.proxmox.com/threads/what-are-limitations-of-the-free-version.113434/ \
+https://forum.proxmox.com/threads/does-proxmox-still-offer-a-fully-free-version.146066/#:~:text=You%20can%20install%20Proxmox%20without,you%20chose%20to%20install%20updates). \
+https://www.youtube.com/watch?v=5j0Zb6x_hOk&list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo&ab_channel=LearnLinuxTV
