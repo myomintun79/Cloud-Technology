@@ -1,4 +1,4 @@
-#Price Calculator for Cloud Hosting
+# Price Calculator for Cloud Hosting
 https://www.cloudorado.com/
 
 # Proxmox VE 
