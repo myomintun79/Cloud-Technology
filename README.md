@@ -11,3 +11,16 @@ https://forum.proxmox.com/threads/does-proxmox-still-offer-a-fully-free-version.
 Proxmox Training \
 https://www.youtube.com/watch?v=5j0Zb6x_hOk&list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo&ab_channel=LearnLinuxTV \
 https://www.linuxtechi.com/install-proxmox-ve-on-bare-metal/
+
+# VPS/Cloud Hosting Service in Myanmar
+https://mpt.com.mm/en/business-home/b2b-cloud-service/ \
+https://www.global-dms.com/virtual-private-servers-vps-myanmar/ \
+https://www.shwehosting.com/VPS-hosting/ \
+https://www.netscriper.com/VPS-hosting/ \
+https://www.worldwidemyanmar.com/vps-hosting/ \
+https://cyberwings.asia/ \
+https://www.gtmh-telecom.com/cloud-services/virtual-private-server/ \
+https://shop.mtg.com.mm/vps-hosting.php?language=myanmar \
+https://www.globalnet.com.mm/vps/ \
+https://www.zeus.com.mm/ \
+https://hosting.z.com/mm/private-hosting/ \
