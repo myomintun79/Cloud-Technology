@@ -10,7 +10,11 @@ https://forum.proxmox.com/threads/what-are-limitations-of-the-free-version.11343
 https://forum.proxmox.com/threads/does-proxmox-still-offer-a-fully-free-version.146066/#:~:text=You%20can%20install%20Proxmox%20without,you%20chose%20to%20install%20updates). \
 Proxmox Training \
 https://www.youtube.com/watch?v=5j0Zb6x_hOk&list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo&ab_channel=LearnLinuxTV \
-https://www.linuxtechi.com/install-proxmox-ve-on-bare-metal/
+https://www.linuxtechi.com/install-proxmox-ve-on-bare-metal/ \
+UI/UX \
+https://forum.proxmox.com/threads/change-the-logo.109477/ \
+https://forum.proxmox.com/threads/customise-login-page-and-logos.141855/ \
+
 
 # VPS/Cloud Hosting Service in Myanmar
 https://mpt.com.mm/en/business-home/b2b-cloud-service/ \
