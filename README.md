@@ -3,6 +3,8 @@ https://www.cloudorado.com/
 
 # Proxmox VE 
 https://www.proxmox.com/en/ \
+Admin Guide \
+https://www.proxmox.com/en/downloads/proxmox-virtual-environment/documentation \
 FAQ \
 https://www.proxmox.com/en/downloads/proxmox-virtual-environment/agreements/proxmox-ve-subscription-agreement \
 https://forum.proxmox.com/threads/what-is-the-differences-between-the-paid-and-free-version-of-proxmox.142951/ \
