@@ -16,10 +16,15 @@ https://www.linuxtechi.com/install-proxmox-ve-on-bare-metal/ \
 UI/UX \
 https://forum.proxmox.com/threads/change-the-logo.109477/ \
 https://forum.proxmox.com/threads/customise-login-page-and-logos.141855/ \
-File Path \
+Main File Path \
 /usr/share/pve-manager/ \
-Apply Changes: \
-sudo systemctl restart pveproxy
+Logo Path \
+/usr/share/pve-manager/images \
+Text Login Box \
+/usr/share/pve-manager/js/pvemanagerlib.js \
+Banner Text \
+index.html.tpl \
+
 
 
 # VPS/Cloud Hosting Service in Myanmar
