@@ -23,8 +23,9 @@ Logo Path \
 Text Login Box \
 /usr/share/pve-manager/js/pvemanagerlib.js \
 Banner Text \
-index.html.tpl 
-
+index.html.tpl \
+Restart Proxmox VE \
+$systemctl restart pveproxy
 
 
 # VPS/Cloud Hosting Service in Myanmar
