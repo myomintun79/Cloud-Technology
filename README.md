@@ -27,8 +27,9 @@ index.html.tpl \
 Restart Proxmox VE \
 $systemctl restart pveproxy \
 CMP for Proxmox \
-https://proxcp.com/index
-
+https://proxcp.com/index \
+Storage Technology \
+https://www.blockbridge.com/proxmox/
 
 # VPS/Cloud Hosting Service in Myanmar
 https://mpt.com.mm/en/business-home/b2b-cloud-service/ \
