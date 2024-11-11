@@ -4,6 +4,7 @@ https://www.cloudorado.com/
 # Proxmox VE 
 https://www.proxmox.com/en/ \
 Admin Guide \
+https://pve.proxmox.com/pve-docs/pve-admin-guide.html \
 https://www.proxmox.com/en/downloads/proxmox-virtual-environment/documentation \
 FAQ \
 https://www.proxmox.com/en/downloads/proxmox-virtual-environment/agreements/proxmox-ve-subscription-agreement \
