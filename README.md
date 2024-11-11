@@ -25,7 +25,9 @@ Text Login Box \
 Banner Text \
 index.html.tpl \
 Restart Proxmox VE \
-$systemctl restart pveproxy
+$systemctl restart pveproxy \
+CMP for Proxmox \
+https://proxcp.com/index
 
 
 # VPS/Cloud Hosting Service in Myanmar
