@@ -15,6 +15,7 @@ Proxmox Training \
 https://www.youtube.com/watch?v=5j0Zb6x_hOk&list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo&ab_channel=LearnLinuxTV \
 https://www.linuxtechi.com/install-proxmox-ve-on-bare-metal/ \
 UI/UX \
+https://gist.github.com/yuna0x0/6e5345b019a80de733f375b71f4d3917 \
 https://forum.proxmox.com/threads/change-the-logo.109477/ \
 https://forum.proxmox.com/threads/customise-login-page-and-logos.141855/ \
 Main File Path \
