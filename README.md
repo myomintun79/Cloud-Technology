@@ -14,6 +14,10 @@ https://forum.proxmox.com/threads/does-proxmox-still-offer-a-fully-free-version.
 Proxmox Training \
 https://www.youtube.com/watch?v=5j0Zb6x_hOk&list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo&ab_channel=LearnLinuxTV \
 https://www.linuxtechi.com/install-proxmox-ve-on-bare-metal/ \
+
+# 15 Things You MUST DO After Installing Proxmox
+https://www.youtube.com/watch?v=5kvouUIn5Zg&ab_channel=SkillsBuildTraining 
+
 UI/UX \
 https://gist.github.com/yuna0x0/6e5345b019a80de733f375b71f4d3917 \
 https://forum.proxmox.com/threads/change-the-logo.109477/ \
