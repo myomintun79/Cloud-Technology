@@ -18,6 +18,10 @@ https://www.linuxtechi.com/install-proxmox-ve-on-bare-metal/ \
 # 15 Things You MUST DO After Installing Proxmox
 https://www.youtube.com/watch?v=5kvouUIn5Zg&ab_channel=SkillsBuildTraining 
 
+# Repo Config
+https://www.youtube.com/watch?v=bUD1fN3aT9U&ab_channel=HomeTechAutomation \
+https://www.youtube.com/watch?v=DzHRhu3On7o&ab_channel=VirtualizationHowto
+
 UI/UX \
 https://gist.github.com/yuna0x0/6e5345b019a80de733f375b71f4d3917 \
 https://forum.proxmox.com/threads/change-the-logo.109477/ \
