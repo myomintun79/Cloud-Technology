@@ -36,6 +36,9 @@ Banner Text \
 index.html.tpl \
 Restart Proxmox VE \
 $systemctl restart pveproxy \
+# Disable Proxmox VE Subscription Notification
+https://www.youtube.com/watch?v=mQGB4hL2_ZQ&ab_channel=TechTutorials-DavidMcKone
+
 CMP for Proxmox \
 https://proxcp.com/index \
 Storage Technology \
