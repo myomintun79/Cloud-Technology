@@ -14,6 +14,8 @@ https://forum.proxmox.com/threads/does-proxmox-still-offer-a-fully-free-version.
 Proxmox Training \
 https://www.youtube.com/watch?v=5j0Zb6x_hOk&list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo&ab_channel=LearnLinuxTV \
 https://www.linuxtechi.com/install-proxmox-ve-on-bare-metal/ \
+System Requirements \
+https://www.proxmox.com/en/proxmox-virtual-environment/requirements
 
 # 15 Things You MUST DO After Installing Proxmox
 https://www.youtube.com/watch?v=5kvouUIn5Zg&ab_channel=SkillsBuildTraining 
