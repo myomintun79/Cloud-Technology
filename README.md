@@ -47,6 +47,9 @@ https://proxcp.com/index \
 Storage Technology \
 https://www.blockbridge.com/proxmox/
 
+# Ceph Storage
+https://www.youtube.com/watch?v=-qk_P9SKYK4&t=578s&ab_channel=VirtualizationHowto
+
 # VPS/Cloud Hosting Service in Myanmar
 https://mpt.com.mm/en/business-home/b2b-cloud-service/ \
 https://www.global-dms.com/virtual-private-servers-vps-myanmar/ \
