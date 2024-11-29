@@ -50,7 +50,8 @@ Storage Technology \
 https://www.blockbridge.com/proxmox/
 
 # Ceph Storage
-https://www.youtube.com/watch?v=-qk_P9SKYK4&t=578s&ab_channel=VirtualizationHowto
+https://www.youtube.com/watch?v=-qk_P9SKYK4&t=578s&ab_channel=VirtualizationHowto \
+https://www.starwindsoftware.com/blog/proxmox-ve-configure-a-ceph-storage-cluster/
 
 # VPS/Cloud Hosting Service in Myanmar
 https://mpt.com.mm/en/business-home/b2b-cloud-service/ \
