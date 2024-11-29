@@ -37,7 +37,7 @@ Text Login Box \
 Banner Text \
 index.html.tpl \
 Restart Proxmox VE \
-$systemctl restart pveproxy \
+$systemctl restart pveproxy 
 # Disable Proxmox VE Subscription Notification
 https://www.youtube.com/watch?v=mQGB4hL2_ZQ&ab_channel=TechTutorials-DavidMcKone \
 https://johnscs.com/remove-proxmox51-subscription-notice/ \
