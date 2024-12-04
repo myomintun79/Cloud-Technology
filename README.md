@@ -53,6 +53,10 @@ https://www.blockbridge.com/proxmox/
 https://www.youtube.com/watch?v=-qk_P9SKYK4&t=578s&ab_channel=VirtualizationHowto \
 https://www.starwindsoftware.com/blog/proxmox-ve-configure-a-ceph-storage-cluster/
 
+# Proxmox Backup
+https://pbs.proxmox.com/docs/ \
+https://www.youtube.com/watch?v=wv9v9HMZJNY&ab_channel=DistroDomain
+
 # VPS/Cloud Hosting Service in Myanmar
 https://mpt.com.mm/en/business-home/b2b-cloud-service/ \
 https://www.global-dms.com/virtual-private-servers-vps-myanmar/ \
