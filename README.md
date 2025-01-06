@@ -47,7 +47,8 @@ https://bobcares.com/blog/proxmox-disable-subscription-warning/
 CMP for Proxmox \
 https://proxcp.com/index \
 https://hostbillapp.com/ \
-https://www.virtualizor.com/
+https://www.virtualizor.com/ \
+https://www.virtualizor.com/docs/install/install-proxmox/
 
 Storage Technology \
 https://www.blockbridge.com/proxmox/
