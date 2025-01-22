@@ -20,6 +20,12 @@ https://www.proxmox.com/en/proxmox-virtual-environment/requirements
 # 15 Things You MUST DO After Installing Proxmox
 https://www.youtube.com/watch?v=5kvouUIn5Zg&ab_channel=SkillsBuildTraining 
 
+# Install and Config
+https://www.starwindsoftware.com/blog/proxmox-ve-configure-a-ceph-storage-cluster/ \
+https://nolabnoparty.com/en/proxmox-configure-high-availability-ha/ \
+https://www.youtube.com/watch?v=-qk_P9SKYK4&t=578s&ab_channel=VirtualizationHowto 
+
+
 # Repo Config
 https://www.youtube.com/watch?v=bUD1fN3aT9U&ab_channel=HomeTechAutomation \
 https://www.youtube.com/watch?v=DzHRhu3On7o&ab_channel=VirtualizationHowto
@@ -50,9 +56,6 @@ zfs snapshot rpool/ROOT/pve-1@os-backup-$(date +%Y%m%d) \
 zfs list -t snapshot \
 zfs rollback rpool/data@backup-20250101
 
-
-
-
 CMP for Proxmox \
 https://proxcp.com/index \
 https://hostbillapp.com/ \
@@ -61,10 +64,6 @@ https://www.virtualizor.com/docs/install/install-proxmox/
 
 Storage Technology \
 https://www.blockbridge.com/proxmox/
-
-# Ceph Storage
-https://www.youtube.com/watch?v=-qk_P9SKYK4&t=578s&ab_channel=VirtualizationHowto \
-https://www.starwindsoftware.com/blog/proxmox-ve-configure-a-ceph-storage-cluster/
 
 # Proxmox Backup
 https://pbs.proxmox.com/docs/ \
