@@ -44,6 +44,15 @@ https://johnscs.com/remove-proxmox51-subscription-notice/ \
 https://www.youtube.com/watch?v=dOC8dIjuJsI&ab_channel=CloudywithArnold \
 https://bobcares.com/blog/proxmox-disable-subscription-warning/
 
+# Backup/Snapshot Proxmox with ZFS
+zfs list \
+zfs snapshot rpool/ROOT/pve-1@os-backup-$(date +%Y%m%d) \
+zfs list -t snapshot \
+zfs rollback rpool/data@backup-20250101
+
+
+
+
 CMP for Proxmox \
 https://proxcp.com/index \
 https://hostbillapp.com/ \
