@@ -56,7 +56,7 @@ zfs snapshot rpool/ROOT/pve-1@os-backup-$(date +%Y%m%d) \
 zfs list -t snapshot \
 zfs rollback rpool/data@backup-20250101
 
-CMP for Proxmox \
+# CMP for Proxmox \
 https://proxcp.com/index \
 https://hostbillapp.com/ \
 https://www.virtualizor.com/ \
