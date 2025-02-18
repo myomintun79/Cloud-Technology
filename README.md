@@ -1,6 +1,12 @@
 # Price Calculator for Cloud Hosting
 https://www.cloudorado.com/
 
+# qemu-guest-agent
+sudo apt install qemu-guest-agent \
+sudo systemctl start qemu-guest-agent \
+systemctl enable qemu-guest-agent \
+
+
 # Proxmox VE 
 https://www.proxmox.com/en/ \
 Admin Guide \
