@@ -1,7 +1,7 @@
 # Price Calculator for Cloud Hosting
 https://www.cloudorado.com/
 
-# qemu-guest-agent
+# qemu-guest-agent(for Linux)
 sudo apt install qemu-guest-agent \
 sudo systemctl start qemu-guest-agent \
 sudo systemctl enable qemu-guest-agent 
