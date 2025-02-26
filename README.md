@@ -56,6 +56,11 @@ https://johnscs.com/remove-proxmox51-subscription-notice/ \
 https://www.youtube.com/watch?v=dOC8dIjuJsI&ab_channel=CloudywithArnold \
 https://bobcares.com/blog/proxmox-disable-subscription-warning/
 
+# User Management
+https://www.youtube.com/watch?v=DLh_j1CAj44&t=275s&ab_channel=ElectronicsWizardry \
+https://pve.proxmox.com/wiki/User_Management \
+https://www.youtube.com/watch?v=frnILOGmATs&ab_channel=LearnLinuxTV 
+
 # Backup/Snapshot Proxmox with ZFS
 zfs list \
 zfs snapshot rpool/ROOT/pve-1@os-backup-$(date +%Y%m%d) \
