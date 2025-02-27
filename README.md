@@ -36,6 +36,9 @@ https://www.youtube.com/watch?v=-qk_P9SKYK4&t=578s&ab_channel=VirtualizationHowt
 https://www.youtube.com/watch?v=bUD1fN3aT9U&ab_channel=HomeTechAutomation \
 https://www.youtube.com/watch?v=DzHRhu3On7o&ab_channel=VirtualizationHowto
 
+# Proxmox CLI Commands Every Admin Should Know
+https://www.nakivo.com/blog/top-10-proxmox-cli-commands/
+
 UI/UX \
 https://gist.github.com/yuna0x0/6e5345b019a80de733f375b71f4d3917 \
 https://forum.proxmox.com/threads/change-the-logo.109477/ \
