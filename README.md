@@ -71,7 +71,8 @@ zfs rollback rpool/data@backup-20250101
 https://proxcp.com/index \
 https://hostbillapp.com/ \
 https://www.virtualizor.com/ \
-https://www.virtualizor.com/docs/install/install-proxmox/
+https://www.virtualizor.com/docs/install/install-proxmox/ \
+https://bennetgallein.de/shop/proxmox_control_panel-34
 
 Storage Technology \
 https://www.blockbridge.com/proxmox/
